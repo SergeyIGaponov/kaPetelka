@@ -26,13 +26,13 @@ class KeyChain {
         var contentsOfKeychain: String?
         let status: OSStatus = SecItemCopyMatching(query as CFDictionary, &dataTypeRef)
         
-        if status == noErr {
-            if let retrievedData = dataTypeRef as? Data {
-                contentsOfKeychain = String(data: retrievedData, encoding: String.Encoding.utf8)
-            }
-        } else {
-            print("Nothing was retrieved from the keychain. Status code \(status)")
-        }
+//        if status == noErr {
+//            if let retrievedData = dataTypeRef as? Data {
+//                contentsOfKeychain = String(data: retrievedData, encoding: String.Encoding.utf8)
+//            }
+//        } else {
+//            print("Nothing was retrieved from the keychain. Status code \(status)")
+//        }
         return contentsOfKeychain
     }
 }

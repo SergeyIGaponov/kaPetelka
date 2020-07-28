@@ -102,8 +102,8 @@ class BaseViewController<T>: UIViewController, BaseAlert where T: ViewModel {
         navigationController?.navigationBar.isHidden = isHidden
         navigationController?.navigationBar.shadowImage = UIImage()
         navigationController?.navigationBar.setBackgroundImage(UIImage(), for: .default)
-        navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor: ColorCompatibility.label]
-        navigationController?.navigationBar.tintColor = ColorCompatibility.label;
+//        navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor: ColorCompatibility.label]
+//        navigationController?.navigationBar.tintColor = ColorCompatibility.label;
         navigationController?.navigationBar.isTranslucent = true
     }
 
