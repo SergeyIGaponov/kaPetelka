@@ -88,7 +88,7 @@
                                         <color key="selectedSegmentTintColor" red="0.13482406290000001" green="0.1491914251" blue="0.29395881219999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </segmentedControl>
                                 </subviews>
-                                <color key="backgroundColor" red="0.34901960780000002" green="0.30588235289999999" blue="0.85490196080000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.22745098039215686" green="0.18431372549019609" blue="0.70980392156862748" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="bottom" secondItem="V3Z-P5-ll2" secondAttribute="bottom" constant="12" id="c1I-uk-IUa"/>
                                     <constraint firstAttribute="trailing" secondItem="V3Z-P5-ll2" secondAttribute="trailing" constant="12" id="rbS-jN-QFE"/>
