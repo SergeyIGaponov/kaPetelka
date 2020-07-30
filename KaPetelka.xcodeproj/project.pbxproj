@@ -137,42 +137,18 @@
 		A854E8EB24CF1B5000904DC8 /* RequestUserProfileApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CD24CF1B5000904DC8 /* RequestUserProfileApiModel.swift */; };
 		A854E8EC24CF1B5000904DC8 /* RequestUserProfileApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CD24CF1B5000904DC8 /* RequestUserProfileApiModel.swift */; };
 		A854E8ED24CF1B5000904DC8 /* RequestUserProfileApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CD24CF1B5000904DC8 /* RequestUserProfileApiModel.swift */; };
-		A854E8EE24CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CE24CF1B5000904DC8 /* RequestUploadVideoModel.swift */; };
-		A854E8EF24CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CE24CF1B5000904DC8 /* RequestUploadVideoModel.swift */; };
-		A854E8F024CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CE24CF1B5000904DC8 /* RequestUploadVideoModel.swift */; };
 		A854E8F124CF1B5000904DC8 /* RequestAuthLoginApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CF24CF1B5000904DC8 /* RequestAuthLoginApiModel.swift */; };
 		A854E8F224CF1B5000904DC8 /* RequestAuthLoginApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CF24CF1B5000904DC8 /* RequestAuthLoginApiModel.swift */; };
 		A854E8F324CF1B5000904DC8 /* RequestAuthLoginApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8CF24CF1B5000904DC8 /* RequestAuthLoginApiModel.swift */; };
-		A854E8F424CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D024CF1B5000904DC8 /* RequestOtpServiceModel.swift */; };
-		A854E8F524CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D024CF1B5000904DC8 /* RequestOtpServiceModel.swift */; };
-		A854E8F624CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D024CF1B5000904DC8 /* RequestOtpServiceModel.swift */; };
-		A854E8F724CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D224CF1B5000904DC8 /* ResultCommentsModel.swift */; };
-		A854E8F824CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D224CF1B5000904DC8 /* ResultCommentsModel.swift */; };
-		A854E8F924CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D224CF1B5000904DC8 /* ResultCommentsModel.swift */; };
-		A854E8FA24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D324CF1B5000904DC8 /* ResultGetVideosModel.swift */; };
-		A854E8FB24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D324CF1B5000904DC8 /* ResultGetVideosModel.swift */; };
-		A854E8FC24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D324CF1B5000904DC8 /* ResultGetVideosModel.swift */; };
-		A854E8FD24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D424CF1B5000904DC8 /* ResultVideoModel.swift */; };
-		A854E8FE24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D424CF1B5000904DC8 /* ResultVideoModel.swift */; };
-		A854E8FF24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D424CF1B5000904DC8 /* ResultVideoModel.swift */; };
-		A854E90024CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D524CF1B5000904DC8 /* ResultVideoListModel.swift */; };
-		A854E90124CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D524CF1B5000904DC8 /* ResultVideoListModel.swift */; };
-		A854E90224CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D524CF1B5000904DC8 /* ResultVideoListModel.swift */; };
 		A854E90324CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D624CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift */; };
 		A854E90424CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D624CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift */; };
 		A854E90524CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D624CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift */; };
 		A854E90624CF1B5000904DC8 /* ResultReffreshTokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D724CF1B5000904DC8 /* ResultReffreshTokenModel.swift */; };
 		A854E90724CF1B5000904DC8 /* ResultReffreshTokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D724CF1B5000904DC8 /* ResultReffreshTokenModel.swift */; };
 		A854E90824CF1B5000904DC8 /* ResultReffreshTokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D724CF1B5000904DC8 /* ResultReffreshTokenModel.swift */; };
-		A854E90924CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D824CF1B5000904DC8 /* ResultDeezerAPIModel.swift */; };
-		A854E90A24CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D824CF1B5000904DC8 /* ResultDeezerAPIModel.swift */; };
-		A854E90B24CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D824CF1B5000904DC8 /* ResultDeezerAPIModel.swift */; };
 		A854E90C24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D924CF1B5000904DC8 /* ResultUserProfileModel.swift */; };
 		A854E90D24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D924CF1B5000904DC8 /* ResultUserProfileModel.swift */; };
 		A854E90E24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8D924CF1B5000904DC8 /* ResultUserProfileModel.swift */; };
-		A854E90F24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DA24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift */; };
-		A854E91024CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DA24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift */; };
-		A854E91124CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DA24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift */; };
 		A854E91224CF1B5000904DC8 /* ResultErrorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DB24CF1B5000904DC8 /* ResultErrorModel.swift */; };
 		A854E91324CF1B5000904DC8 /* ResultErrorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DB24CF1B5000904DC8 /* ResultErrorModel.swift */; };
 		A854E91424CF1B5000904DC8 /* ResultErrorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A854E8DB24CF1B5000904DC8 /* ResultErrorModel.swift */; };
@@ -297,18 +273,10 @@
 		A854E8CB24CF1B5000904DC8 /* RequestRecoveryPass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestRecoveryPass.swift; sourceTree = "<group>"; };
 		A854E8CC24CF1B5000904DC8 /* RequestChangePasswordModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestChangePasswordModel.swift; sourceTree = "<group>"; };
 		A854E8CD24CF1B5000904DC8 /* RequestUserProfileApiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestUserProfileApiModel.swift; sourceTree = "<group>"; };
-		A854E8CE24CF1B5000904DC8 /* RequestUploadVideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestUploadVideoModel.swift; sourceTree = "<group>"; };
 		A854E8CF24CF1B5000904DC8 /* RequestAuthLoginApiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestAuthLoginApiModel.swift; sourceTree = "<group>"; };
-		A854E8D024CF1B5000904DC8 /* RequestOtpServiceModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestOtpServiceModel.swift; sourceTree = "<group>"; };
-		A854E8D224CF1B5000904DC8 /* ResultCommentsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultCommentsModel.swift; sourceTree = "<group>"; };
-		A854E8D324CF1B5000904DC8 /* ResultGetVideosModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultGetVideosModel.swift; sourceTree = "<group>"; };
-		A854E8D424CF1B5000904DC8 /* ResultVideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultVideoModel.swift; sourceTree = "<group>"; };
-		A854E8D524CF1B5000904DC8 /* ResultVideoListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultVideoListModel.swift; sourceTree = "<group>"; };
 		A854E8D624CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultAuthLoginAPIModel.swift; sourceTree = "<group>"; };
 		A854E8D724CF1B5000904DC8 /* ResultReffreshTokenModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultReffreshTokenModel.swift; sourceTree = "<group>"; };
-		A854E8D824CF1B5000904DC8 /* ResultDeezerAPIModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultDeezerAPIModel.swift; sourceTree = "<group>"; };
 		A854E8D924CF1B5000904DC8 /* ResultUserProfileModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultUserProfileModel.swift; sourceTree = "<group>"; };
-		A854E8DA24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultOtpAndChangePassword.swift; sourceTree = "<group>"; };
 		A854E8DB24CF1B5000904DC8 /* ResultErrorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultErrorModel.swift; sourceTree = "<group>"; };
 		A854E8DF24CF1B5000904DC8 /* NetworkUserProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkUserProfile.swift; sourceTree = "<group>"; };
 		A854E8E324CF1B5000904DC8 /* NetworkErrorHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkErrorHandler.swift; sourceTree = "<group>"; };
@@ -628,9 +596,7 @@
 				A854E8CB24CF1B5000904DC8 /* RequestRecoveryPass.swift */,
 				A854E8CC24CF1B5000904DC8 /* RequestChangePasswordModel.swift */,
 				A854E8CD24CF1B5000904DC8 /* RequestUserProfileApiModel.swift */,
-				A854E8CE24CF1B5000904DC8 /* RequestUploadVideoModel.swift */,
 				A854E8CF24CF1B5000904DC8 /* RequestAuthLoginApiModel.swift */,
-				A854E8D024CF1B5000904DC8 /* RequestOtpServiceModel.swift */,
 			);
 			path = ModelRequest;
 			sourceTree = "<group>";
@@ -638,15 +604,9 @@
 		A854E8D124CF1B5000904DC8 /* ModelResult */ = {
 			isa = PBXGroup;
 			children = (
-				A854E8D224CF1B5000904DC8 /* ResultCommentsModel.swift */,
-				A854E8D324CF1B5000904DC8 /* ResultGetVideosModel.swift */,
-				A854E8D424CF1B5000904DC8 /* ResultVideoModel.swift */,
-				A854E8D524CF1B5000904DC8 /* ResultVideoListModel.swift */,
 				A854E8D624CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift */,
 				A854E8D724CF1B5000904DC8 /* ResultReffreshTokenModel.swift */,
-				A854E8D824CF1B5000904DC8 /* ResultDeezerAPIModel.swift */,
 				A854E8D924CF1B5000904DC8 /* ResultUserProfileModel.swift */,
-				A854E8DA24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift */,
 				A854E8DB24CF1B5000904DC8 /* ResultErrorModel.swift */,
 			);
 			path = ModelResult;
@@ -1088,7 +1048,6 @@
 				A84B8D8A24CB01A900C393D8 /* ViewModel.swift in Sources */,
 				A854E62524CC630F00904DC8 /* CustomActivityView.swift in Sources */,
 				A854E7D224CED89E00904DC8 /* ProfileViewModel.swift in Sources */,
-				A854E8EE24CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */,
 				A854E86224CED89E00904DC8 /* MainViewControllerCells.swift in Sources */,
 				A854E91224CF1B5000904DC8 /* ResultErrorModel.swift in Sources */,
 				A8CBB36624D184C500F56FF7 /* ItemDetailsViewModel.swift in Sources */,
@@ -1096,12 +1055,10 @@
 				A854E92724CF1B5000904DC8 /* NetworkErrorHandler.swift in Sources */,
 				A8CBB33524D072D000F56FF7 /* FavoritesViewModel.swift in Sources */,
 				A854E84424CED89E00904DC8 /* MainViewModel.swift in Sources */,
-				A854E90024CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */,
 				A84B8D7E24CB01A900C393D8 /* UserAuth.swift in Sources */,
 				A854E61C24CC630F00904DC8 /* UITextView_Placeholder.swift in Sources */,
 				A854E63B24CED62C00904DC8 /* DarkModeHelper.swift in Sources */,
 				A854E62B24CC630F00904DC8 /* String.swift in Sources */,
-				A854E8F724CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */,
 				A8CBB35224D09DB900F56FF7 /* SupportViewController+Extension.swift in Sources */,
 				A854E90C24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */,
 				A84B8D7B24CB01A900C393D8 /* Observer.swift in Sources */,
@@ -1110,10 +1067,7 @@
 				A854E61324CC630F00904DC8 /* AppImageView.swift in Sources */,
 				A84B8C6424CAFC3B00C393D8 /* AppDelegate.swift in Sources */,
 				A854E79624CED89E00904DC8 /* SearchCell.swift in Sources */,
-				A854E8FA24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */,
-				A854E8FD24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */,
 				A854E61024CC630F00904DC8 /* Constants.swift in Sources */,
-				A854E90F24CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */,
 				A8CBB34A24D0980E00F56FF7 /* SupportViewController.swift in Sources */,
 				A84B8D8D24CB01A900C393D8 /* LoadingSpinner.swift in Sources */,
 				A8CBB33A24D07CAC00F56FF7 /* FavoritesCollectionCell.swift in Sources */,
@@ -1122,11 +1076,9 @@
 				A8CBB36224D184A900F56FF7 /* ItemDetailsViewController.swift in Sources */,
 				A8CBB34E24D0982100F56FF7 /* SupportViewModel.swift in Sources */,
 				A84B8D9924CB01A900C393D8 /* KeyConstant.swift in Sources */,
-				A854E90924CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */,
 				A84B8D8424CB01A900C393D8 /* CurrentUser.swift in Sources */,
 				A854E63124CC630F00904DC8 /* UIViewController.swift in Sources */,
 				A84B8D9624CB01A900C393D8 /* BaseAlert.swift in Sources */,
-				A854E8F424CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */,
 				A84B8D7824CB01A900C393D8 /* Constant.swift in Sources */,
 				A854E90624CF1B5000904DC8 /* ResultReffreshTokenModel.swift in Sources */,
 				A854E79924CED89E00904DC8 /* SearchViewController.swift in Sources */,
@@ -1151,11 +1103,9 @@
 				A854E63524CC630F00904DC8 /* UIApplication.swift in Sources */,
 				A854E78B24CED89E00904DC8 /* SearchResultViewModel.swift in Sources */,
 				A84B8D9724CB01A900C393D8 /* BaseAlert.swift in Sources */,
-				A854E8EF24CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */,
 				A84B8D8224CB01A900C393D8 /* BaseViewController.swift in Sources */,
 				A84B8C7B24CAFC3E00C393D8 /* KaPetelkaTests.swift in Sources */,
 				A84B8D9124CB01A900C393D8 /* CompositionRoot.swift in Sources */,
-				A854E90A24CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */,
 				A854E62324CC630F00904DC8 /* Int.swift in Sources */,
 				A84B8D8E24CB01A900C393D8 /* LoadingSpinner.swift in Sources */,
 				A854E61424CC630F00904DC8 /* AppImageView.swift in Sources */,
@@ -1168,7 +1118,6 @@
 				A854E81824CED89E00904DC8 /* ProfileViewController.swift in Sources */,
 				A854E7D324CED89E00904DC8 /* ProfileViewModel.swift in Sources */,
 				A854E90424CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift in Sources */,
-				A854E90124CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */,
 				A854E84524CED89E00904DC8 /* MainViewModel.swift in Sources */,
 				A8CBB35324D09DB900F56FF7 /* SupportViewController+Extension.swift in Sources */,
 				A854E62C24CC630F00904DC8 /* String.swift in Sources */,
@@ -1179,15 +1128,11 @@
 				A84B8D8524CB01A900C393D8 /* CurrentUser.swift in Sources */,
 				A854E79A24CED89E00904DC8 /* SearchViewController.swift in Sources */,
 				A854E78824CED89E00904DC8 /* SearchViewModel.swift in Sources */,
-				A854E8F824CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */,
 				A854E92824CF1B5000904DC8 /* NetworkErrorHandler.swift in Sources */,
 				A854E90D24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */,
-				A854E8F524CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */,
 				A8CBB34B24D0980E00F56FF7 /* SupportViewController.swift in Sources */,
-				A854E8FE24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */,
 				A8CBB33B24D07CAC00F56FF7 /* FavoritesCollectionCell.swift in Sources */,
 				A8CBB33F24D0812C00F56FF7 /* FavoritesViewController+Extension.swift in Sources */,
-				A854E8FB24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */,
 				A8CBB36324D184A900F56FF7 /* ItemDetailsViewController.swift in Sources */,
 				A8CBB34F24D0982100F56FF7 /* SupportViewModel.swift in Sources */,
 				A854E86324CED89E00904DC8 /* MainViewControllerCells.swift in Sources */,
@@ -1201,7 +1146,6 @@
 				A854E8F224CF1B5000904DC8 /* RequestAuthLoginApiModel.swift in Sources */,
 				A854E86024CED89E00904DC8 /* MainViewController.swift in Sources */,
 				A854E8EC24CF1B5000904DC8 /* RequestUserProfileApiModel.swift in Sources */,
-				A854E91024CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */,
 				A854E61124CC630F00904DC8 /* Constants.swift in Sources */,
 				A84B8D7924CB01A900C393D8 /* Constant.swift in Sources */,
 				A84B8D9A24CB01A900C393D8 /* KeyConstant.swift in Sources */,
@@ -1220,11 +1164,9 @@
 				A854E63624CC630F00904DC8 /* UIApplication.swift in Sources */,
 				A854E78C24CED89E00904DC8 /* SearchResultViewModel.swift in Sources */,
 				A84B8D9824CB01A900C393D8 /* BaseAlert.swift in Sources */,
-				A854E8F024CF1B5000904DC8 /* RequestUploadVideoModel.swift in Sources */,
 				A84B8D8324CB01A900C393D8 /* BaseViewController.swift in Sources */,
 				A84B8C8624CAFC3E00C393D8 /* KaPetelkaUITests.swift in Sources */,
 				A84B8D9224CB01A900C393D8 /* CompositionRoot.swift in Sources */,
-				A854E90B24CF1B5000904DC8 /* ResultDeezerAPIModel.swift in Sources */,
 				A854E62424CC630F00904DC8 /* Int.swift in Sources */,
 				A84B8D8F24CB01A900C393D8 /* LoadingSpinner.swift in Sources */,
 				A854E61524CC630F00904DC8 /* AppImageView.swift in Sources */,
@@ -1237,7 +1179,6 @@
 				A854E81924CED89E00904DC8 /* ProfileViewController.swift in Sources */,
 				A854E7D424CED89E00904DC8 /* ProfileViewModel.swift in Sources */,
 				A854E90524CF1B5000904DC8 /* ResultAuthLoginAPIModel.swift in Sources */,
-				A854E90224CF1B5000904DC8 /* ResultVideoListModel.swift in Sources */,
 				A854E84624CED89E00904DC8 /* MainViewModel.swift in Sources */,
 				A8CBB35424D09DB900F56FF7 /* SupportViewController+Extension.swift in Sources */,
 				A854E62D24CC630F00904DC8 /* String.swift in Sources */,
@@ -1248,15 +1189,11 @@
 				A84B8D8624CB01A900C393D8 /* CurrentUser.swift in Sources */,
 				A854E79B24CED89E00904DC8 /* SearchViewController.swift in Sources */,
 				A854E78924CED89E00904DC8 /* SearchViewModel.swift in Sources */,
-				A854E8F924CF1B5000904DC8 /* ResultCommentsModel.swift in Sources */,
 				A854E92924CF1B5000904DC8 /* NetworkErrorHandler.swift in Sources */,
 				A854E90E24CF1B5000904DC8 /* ResultUserProfileModel.swift in Sources */,
-				A854E8F624CF1B5000904DC8 /* RequestOtpServiceModel.swift in Sources */,
 				A8CBB34C24D0980E00F56FF7 /* SupportViewController.swift in Sources */,
-				A854E8FF24CF1B5000904DC8 /* ResultVideoModel.swift in Sources */,
 				A8CBB33C24D07CAC00F56FF7 /* FavoritesCollectionCell.swift in Sources */,
 				A8CBB34024D0812C00F56FF7 /* FavoritesViewController+Extension.swift in Sources */,
-				A854E8FC24CF1B5000904DC8 /* ResultGetVideosModel.swift in Sources */,
 				A8CBB36424D184A900F56FF7 /* ItemDetailsViewController.swift in Sources */,
 				A8CBB35024D0982100F56FF7 /* SupportViewModel.swift in Sources */,
 				A854E86424CED89E00904DC8 /* MainViewControllerCells.swift in Sources */,
@@ -1270,7 +1207,6 @@
 				A854E8F324CF1B5000904DC8 /* RequestAuthLoginApiModel.swift in Sources */,
 				A854E86124CED89E00904DC8 /* MainViewController.swift in Sources */,
 				A854E8ED24CF1B5000904DC8 /* RequestUserProfileApiModel.swift in Sources */,
-				A854E91124CF1B5000904DC8 /* ResultOtpAndChangePassword.swift in Sources */,
 				A854E61224CC630F00904DC8 /* Constants.swift in Sources */,
 				A84B8D7A24CB01A900C393D8 /* Constant.swift in Sources */,
 				A84B8D9B24CB01A900C393D8 /* KeyConstant.swift in Sources */,
