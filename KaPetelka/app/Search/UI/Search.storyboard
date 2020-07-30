@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Search View Controller-->
+        <scene sceneID="uDf-Nn-Hwb">
+            <objects>
+                <viewController storyboardIdentifier="SearchViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="O9V-QX-j77" customClass="SearchViewController" customModule="KaPetelka" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CCX-7p-hao">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" text="" placeholder="Search" translatesAutoresizingMaskIntoConstraints="NO" id="H01-5X-Vft">
+                                <rect key="frame" x="0.0" y="44" width="414" height="56"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <connections>
+                                    <outlet property="delegate" destination="O9V-QX-j77" id="quO-D2-VCm"/>
+                                </connections>
+                            </searchBar>
+                        </subviews>
+                        <color key="backgroundColor" red="0.062745098039215685" green="0.050980392156862744" blue="0.13725490196078433" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="H01-5X-Vft" firstAttribute="top" secondItem="Juq-85-sv8" secondAttribute="top" id="3ZV-k5-j1m"/>
+                            <constraint firstItem="H01-5X-Vft" firstAttribute="trailing" secondItem="Juq-85-sv8" secondAttribute="trailing" id="8YE-8H-wcB"/>
+                            <constraint firstItem="H01-5X-Vft" firstAttribute="leading" secondItem="Juq-85-sv8" secondAttribute="leading" id="HdB-zm-Slx"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Juq-85-sv8"/>
+                    </view>
+                    <connections>
+                        <outlet property="searchBar" destination="H01-5X-Vft" id="shE-cG-TCG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oRN-FZ-Kow" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1269.5652173913045" y="1367.4107142857142"/>
+        </scene>
+    </scenes>
+</document>

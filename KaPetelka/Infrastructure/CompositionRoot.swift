@@ -80,12 +80,6 @@ class CompositionRoot {
         return vc
     }
     
-    func resolveNotificationViewController() -> NotificationViewController {
-        let vc = NotificationViewController.instantiateFromStoryboard("Notification")
-        vc.viewModel = resolveNotificationViewModel(view: vc)
-        return vc
-    }
-
     func resolveProfileViewController(stateController: ProfileStateController, selectedUserID: String) -> ProfileViewController {
         let vc = ProfileViewController.instantiateFromStoryboard("Profile")
         vc.viewModel = resolveProfileViewModel(view: vc, stateController: stateController, selectedUserID: selectedUserID)
@@ -108,11 +102,7 @@ class CompositionRoot {
     
     func resolveSearchViewModel(view: SearchViewProtocol) -> SearchViewModel {
         return SearchViewModel(view: view)
-    }
-    
-    func resolveNotificationViewModel(view: NotificationViewProtocol) -> NotificationViewModel {
-        return NotificationViewModel(view: view)
-    }
+    }    
     
     func resolveProfileViewModel(view: ProfileViewProtocol, stateController: ProfileStateController, selectedUserID: String) -> ProfileViewModel {
         return ProfileViewModel(view: view, stateController: stateController, selectedUserID: selectedUserID)
